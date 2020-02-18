@@ -28,6 +28,7 @@ body {
 }
 
 .main-banner #imgban3 {
+    position: absolute; top:0;
     background-image: url(photos/nature-2813487_1280.jpg);
     background-size: cover;
     background-position: 100%;
@@ -35,6 +36,7 @@ body {
 }
 
 .main-banner #imgban2 {
+    position: absolute; top:0;
     background-image: url(photos/autumn-mood-972441_1280.jpg);
     background-size: cover;
     background-position: center;
@@ -42,6 +44,7 @@ body {
 }
 
 .main-banner #imgban1 {
+    position: absolute; top:0;
     background-image: url(photos/vacations-1354563_1280.jpg);
     background-size: cover;
     background-position: center;
